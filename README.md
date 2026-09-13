@@ -1,8 +1,8 @@
 # Olá, eu sou o Rodrigo. 👋
 
-Desenvolvedor fullstack — TypeScript, Node.js e React
-Setor de TI na [Connect Telecom](https://grupoconnectba.com.br/), construindo microsserviços com integração de IA
-Cursando Análise e Desenvolvimento de Sistemas (ADS)
+Sou desenvolvedor fullstack — TypeScript, Node.js e React
+Trabalho no setor de Inovação da [Connect Telecom](https://grupoconnectba.com.br/), construindo microsserviços com integração de IA
+Curso Análise e Desenvolvimento de Sistemas (ADS)
 
 ---
 
@@ -35,23 +35,28 @@ Cursando Análise e Desenvolvimento de Sistemas (ADS)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-6E56CF?style=for-the-badge)
 
 ---
 
 ## 🧑‍💻 Perfil técnico
 
-- Desenvolvedor fullstack, com base forte em **TypeScript, Node.js e React**.
-- Trabalha na **Connect Telecom**, no setor de TI/Inovação, construindo microsserviços com integração de IA.
-- Cursando **ADS (EaD)** em paralelo ao trabalho.
-- Baseado na região de **Caculé, Bahia**.
-- Confortável com infraestrutura self-hosted: Docker, PostgreSQL, Redis.
-- Usa **Claude Code** diariamente na IDE como ferramenta principal de desenvolvimento.
-- Mantém o **Obsidian** como base de conhecimento e destino da documentação.
+- Sou desenvolvedor fullstack, com base forte em **TypeScript, Node.js e React**.
+- Trabalho na **Connect Telecom**, no setor de Inovação, construindo microsserviços com integração de IA.
+- Curso **ADS (EaD)** em paralelo ao trabalho.
+- Estou baseado na região de **Caculé, Bahia**.
+- Sou confortável com infraestrutura self-hosted: Docker, PostgreSQL, Redis.
+- Uso **Claude Code** diariamente na IDE como ferramenta principal de desenvolvimento.
+- Mantenho o **Obsidian** como base de conhecimento e destino da documentação.
 
 ## 🛠️ Projetos em destaque
 
-**[ArcaOS](https://arca-catalyst.vercel.app)** — plataforma de consultoria empresarial (projeto próprio, Maximus)
+**ArcaOS** — plataforma de consultoria empresarial (projeto próprio, Maximus)
 Multi-perfil (Admin / Consultor / Cliente): diagnóstico, plano de ação, data room e chamados de suporte. Backend em NestJS, frontend em React Router, deploy Vercel + VPS com Docker/Caddy.
+
+**devrgoncalves-hub** — dev.hub, meu site pessoal
+Hub pessoal com roadmap de estudos, glossário técnico, comandos do dia a dia e fontes de aprendizado organizados num só lugar. React, Vite, TypeScript, Tailwind CSS.
 
 **RenovaTicket** — Connect Telecom
 Frontend do fluxo de renegociação de clientes: consulta → aprovação → parametrização → execução → acompanhamento. Integração com ERP Voalle e disparo de WhatsApp via G4. React, Vite, TanStack Query/Table, Zustand — backend em NestJS, Prisma, PostgreSQL, BullMQ.
@@ -84,6 +89,8 @@ Rocketseat · Fernanda Kipper · Full Stack Club (Felipe Rocha) · Guanabara/Cur
 ## 🌐 Contato & comunidade
 
 [![Empresa](https://img.shields.io/badge/Connect_Telecom-0077B5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://grupoconnectba.com.br/)
+[![Instagram Connect Telecom](https://img.shields.io/badge/Connect_Telecom-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/grupoconnect.oficial)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhigo_g)
 [![Heart Developers](https://img.shields.io/badge/Heart_Developers-E25555?style=for-the-badge)](https://heartdevs.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devrgoncalves@gmail.com)
 
