@@ -45,14 +45,14 @@ Curso Análise e Desenvolvimento de Sistemas (ADS)
 - Sou desenvolvedor fullstack, com base forte em **TypeScript, Node.js e React**.
 - Trabalho na **Connect Telecom**, no setor de Inovação, construindo microsserviços com integração de IA.
 - Curso **ADS (EaD)** em paralelo ao trabalho.
-- Estou baseado na região de **Caculé, Bahia**.
+- Natural de **Caculé, Bahia**.
 - Sou confortável com infraestrutura self-hosted: Docker, PostgreSQL, Redis.
 - Uso **Claude Code** diariamente na IDE como ferramenta principal de desenvolvimento.
 - Mantenho o **Obsidian** como base de conhecimento e destino da documentação.
 
 ## 🛠️ Projetos em destaque
 
-**ArcaOS** — plataforma de consultoria empresarial (projeto próprio, Maximus)
+**ArcaOS** — plataforma de consultoria empresarial (projeto próprio)
 Multi-perfil (Admin / Consultor / Cliente): diagnóstico, plano de ação, data room e chamados de suporte. Backend em NestJS, frontend em React Router, deploy Vercel + VPS com Docker/Caddy.
 
 **devrgoncalves-hub** — dev.hub, meu site pessoal
@@ -62,10 +62,10 @@ Hub pessoal com roadmap de estudos, glossário técnico, comandos do dia a dia e
 Frontend do fluxo de renegociação de clientes: consulta → aprovação → parametrização → execução → acompanhamento. Integração com ERP Voalle e disparo de WhatsApp via G4. React, Vite, TanStack Query/Table, Zustand — backend em NestJS, Prisma, PostgreSQL, BullMQ.
 
 **Product Flow** — Connect Telecom
-Plataforma de ciclo de vida de produtos do grupo, com Supabase como base de dados.
+Plataforma de ciclo de vida de produtos do grupo, com Postgres como base de dados.
 
 **OrçaFibra** — Connect Telecom
-Sistema de orçamento e monitoramento comercial, com automações via n8n integradas ao ERP.
+Sistema de orçamento de rede FTTH e FTTX contendo modulo de monitoramento comercial, com automações via n8n integradas ao ERP.
 
 **Aigest** — Connect Telecom
 Automação de fluxos de governança corporativa com n8n.
@@ -74,7 +74,7 @@ Automação de fluxos de governança corporativa com n8n.
 
 ## 🧭 Princípios e forma de trabalhar
 
-- **Spec-first / artifact-first** — define specs, regras e decisões de arquitetura por escrito antes de codar (ex: `RESPONSIVE_RULES.md`, pacotes SDD), muitas vezes reaproveitadas como `CLAUDE.md`.
+- **Spec-first / artifact-first** — defino specs, regras e decisões de arquitetura por escrito antes de codar (ex: `RESPONSIVE_RULES.md`, pacotes SDD), muitas vezes reaproveitadas como `CLAUDE.md`.
 - **Prevenir retrabalho > corrigir depois** — regras responsivas e layout de monorepo definidos desde o início.
 - **Sem valores hardcoded** — cores em tokens do Tailwind, URLs em `.env`, constantes em `lib/constants/`, regras de negócio documentadas.
 - **Contract-first** — tipos compartilhados em `packages/shared-types` como fonte da verdade entre frontend e backend.
@@ -84,7 +84,7 @@ Automação de fluxos de governança corporativa com n8n.
 
 ## 📚 Aprendizado
 
-Rocketseat · Fernanda Kipper · Full Stack Club (Felipe Rocha) · Guanabara/Curso em Vídeo · Rodolfo Mori · Coursera/DeepLearning.AI · freeCodeCamp · DIO
+Rocketseat · Fernanda Kipper · Full Stack Club (Felipe Rocha) · Guanabara/Curso em Vídeo · Rodolfo Mori · Coursera/DeepLearning.AI · freeCodeCamp · DIO . He4rt Developers
 
 ## 🌐 Contato & comunidade
 
